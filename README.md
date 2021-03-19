@@ -1,6 +1,6 @@
 # Building-a-Memory-Hierarchy
 
-Added a memory sub-system for the single-cycle CPU built previously.
+Added a memory sub-system for the single-cycle CPU built previously. (Check for [Building-a-Simple-Processor repo](https://github.com/isu92neth/Building-a-Simple-Processor))
 
 Compile :   *iverilog -o cpu.vvp cpu_tb.v*
 
